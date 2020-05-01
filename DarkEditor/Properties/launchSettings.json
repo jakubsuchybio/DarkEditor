@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DarkEditor": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\DokumentyGIT\\.git\\COMMIT_EDITMSG"
+    }
+  }
+}
